@@ -15,6 +15,6 @@
 ---
 ## 1. Overview
 This project analyzes retail sales performance and sales returns to understand how returned orders affect and business outcomes.The analysis combines sales, profit, order, delivery, and return data to identify trends,evaluate financial impact, and highlight areas for operational improvement. It consist of two interative sales performance and sales returns dashboard, KPIs, and advanced visualization techniques, this study identifies key business insights, trends, and patterns to drive operational and strategic decisions.
-
+h
 ---
 ## 2. Rationale for the Project
