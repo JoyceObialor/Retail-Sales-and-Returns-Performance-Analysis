@@ -30,9 +30,22 @@ This creates a gap between current performance and the desired state of optimize
 Product returns are a common challenge in retail businesses and can affect revenue and profitability. Understanding return patterns helps organizations reduce losses, improve customer satisfaction, and make better operational decisions. While overall sales performance is tracked, the impact of returns across products, regions, and customer segments is often less visible. This project provides a data-driven assessment of sales and return trends to support informed decision-making.
 
 ---
-## Objective 
+## 4. Objective 
 - Measure the total revenue lost due to product returns
 - Identify customer segments with the highest return rates
 - Determine product categories and Sub-categories with the highest returns
 - Analyze return patterns across different regions
 - Examine trends in return rates over time
+- Sales performance overview
+
+---
+## 5. Data Descrption
+The project used two primary table retail sales table and calender table and was modeleded ensuring realtionship between the orderdate and calendar table
+
+---
+## 6. Tech Stack
+Excel: Interactive dashboards, visuals, slicers, and KPI cards
+Power Query: Measures for Year-on-Year growth, variance, OTC rates, and other advanced calculations
+Excel: Initial dataset creation, cleaning, and age grouping
+IMGUR & Image URLs: Hosted product images for visual representation in dashboards
+Data Modeling: Star schema to relate fact and dimension tables for accurate aggregation
