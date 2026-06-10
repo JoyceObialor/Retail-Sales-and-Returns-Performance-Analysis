@@ -30,22 +30,50 @@ This creates a gap between current performance and the desired state of optimize
 Product returns are a common challenge in retail businesses and can affect revenue and profitability. Understanding return patterns helps organizations reduce losses, improve customer satisfaction, and make better operational decisions. While overall sales performance is tracked, the impact of returns across products, regions, and customer segments is often less visible. This project provides a data-driven assessment of sales and return trends to support informed decision-making.
 
 ---
-## 4. Objective 
+## 4. Objective
+- Sales performance overview
 - Measure the total revenue lost due to product returns
 - Identify customer segments with the highest return rates
 - Determine product categories and Sub-categories with the highest returns
 - Analyze return patterns across different regions
 - Examine trends in return rates over time
-- Sales performance overview
+
 
 ---
 ## 5. Data Descrption
-The project used two primary table retail sales table and calender table and was modeleded ensuring realtionship between the orderdate and calendar table
+The project used two primary table retail sales table and calender table and was modeleded ensuring realtionship between the orderdate and calendar table. the data was sourced from kaggle dataset 
 
 ---
 ## 6. Tech Stack
-Excel: Interactive dashboards, visuals, slicers, and KPI cards
-Power Query: Measures for Year-on-Year growth, variance, OTC rates, and other advanced calculations
-Excel: Initial dataset creation, cleaning, and age grouping
-IMGUR & Image URLs: Hosted product images for visual representation in dashboards
-Data Modeling: Star schema to relate fact and dimension tables for accurate aggregation
+ Microsoft Excel:
+- Pivot Tables for data aggregation and analysis
+- Interactive Dashboards and KPI Cards
+- Charts, Visualizations, and Slicers for dynamic reporting
+
+ ### Power Query 
+Loaded and transformed the retail dataset
+Performed data quality checks for duplicate and null values
+Imported a separate Calendar Table for time-based analysis
+Established a one-to-many relationship between the Calendar Table and Retail Dataset
+Created custom columns such as:
+Delivery Days
+Delay Flag
+
+--
+### Data Modeling & Measures
+Return Rate, Profit Margin, Returned Sales,Sales Lost Percentage, Total Returned Orders, Average Delivery Days
+- flaticon: Hosted product images for visual representation in dashboard
+--
+## Dashboard design and Insights
+
+### Sale Performance: 
+- The business sold Quantity value Sold 37873, generated $2.3M in sales, $286.4K in profit, and maintained a 12% profit margin.
+- Customer Segment: The Consumer segment was the largest revenue contributor, generating $1.2M in sales, followed by Corporate ($0.7M) and Home Office ($0.4M).
+- Monthly Sales Trend: The  month of Febrauary genrwted more sales, generating $271K in sales folowed by september
+- Quaterly sales Trends: Sales peaked in Q4 ($704.8K), followed by Q3 ($620.2K), while Q2 ($458.3K) recorded the lowest sales.
+- Region: The West region contributed the highest sales ($725.5K), followed by the East ($678.8K), Central ($501.2K), and South ($391.7K) regions.
+- Category: Technology was the top-performing category, accounting for 51% of total sales, followed by Office Supplies (43%) and Furniture (6%).
+- Least Sub-category: Tables (-79%), Bookcases (-16%), and Supplies (-5%) were the least profitable Sub-categories, highlighting areas requiring attention.
+
+
+
