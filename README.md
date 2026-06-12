@@ -127,3 +127,8 @@ Average Delivery Days
 This project analyzed retail sales performance and product return patterns using key performance indicators such as sales, profit, and return rate. The analysis showed overall sales performance, but highlighted returns behaviours as a key driver of revenue loss across specific segments, regions, and product Sub-Categories.
 
 The insights demonstrate my ability to perform end-to-end data analysis and translate findings into actionable business recommendations aimed at improving profitability and reducing return rates.
+
+## Author
+_Joyce Obialor_
+
+Entry-Level Data Analyst | Data science student
