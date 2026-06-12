@@ -123,12 +123,16 @@ Average Delivery Days
 - Review packaging processes to ensure orders are delivered accurately and in good condition 
 - Leverage customer feedback to identify recurring issues affecting the region and implement targeted interventions to reduce revenue losses while maintaining sales performance. 
 
+---
 ## 9. Conclusion
 This project analyzed retail sales performance and product return patterns using key performance indicators such as sales, profit, and return rate. The analysis showed overall sales performance, but highlighted returns behaviours as a key driver of revenue loss across specific segments, regions, and product Sub-Categories.
 
 The insights demonstrate my ability to perform end-to-end data analysis and translate findings into actionable business recommendations aimed at improving profitability and reducing return rates.
 
+---
 ## Author
 _Joyce Obialor_
+
+👉 [GitHub Profile](https://github.com/JoyceObialor)
 
 Entry-Level Data Analyst | Data science student
