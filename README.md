@@ -17,7 +17,6 @@ The project includes two interactive dashboards:
 
 - Sales Performance Dashboard
 - Sales Returns Dashboard
-
 These dashboards use key performance indicators (KPIs), visualizations, and trend analysis to support data-driven business decisions.
 ---
 ## 2. The Business Problem
