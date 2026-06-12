@@ -32,7 +32,7 @@ This creates a gap between current performance and the desired state of optimize
 Product returns are a common challenge in retail businesses and can affect revenue and profitability. Understanding return patterns helps organizations reduce losses, improve customer satisfaction, and make better operational decisions. While overall sales performance is tracked, the impact of returns across products, regions, and customer segments is often less visible. This project provides a data-driven assessment of sales and return trends to support informed decision-making.
 
 ---
-## 4. ObjectiveS
+## 4. Objectives
 - Sales performance overview
 - Measure the total revenue lost due to product returns
 - Identify customer segments with the highest return rates
@@ -113,3 +113,16 @@ Average Delivery Days
 - Shiping Mode: Return rates varied by shipping mode, with Same Day (11.8%) recording the highest return rate, followed by First Class (9.9%), Standard Class (7.5%), and Second Class (6.9%).
 <img width="2145" height="1292" alt="image" src="https://github.com/user-attachments/assets/12e9ff7c-8c91-4408-96e8-26159a0f82b1" />
 
+---
+## Actionable Recommendations
+- Review loss-making categories such as tables, bookcases, and Supplies to improve revenue generation
+- Increase marketing efforts toward the Consumer segment, which generates the highest sales.
+- Conduct customer feedback surveys and review order requirements to improve product fit, order accuracy, and customer satisfaction.
+- Strengthen product quality checks, enhance product descriptions, and provide clearer usage guidance to reduce avoidable returns.
+- Review packaging processes to ensure orders are delivered accurately and in good condition 
+- Leverage customer feedback to identify recurring issues affecting the region and implement targeted interventions to reduce revenue losses while maintaining sales performance. 
+
+## Conclusion
+This project analyzed retail sales performance and product return patterns using key performance indicators such as sales, profit, and return rate. The analysis showed overall sales performance, but highlighted returns behaviours as a key driver of revenue loss across specific segments, regions, and product Sub-Categories.
+
+The insights demonstrate my ability to perform end-to-end data analysis and translate findings into actionable business recommendations aimed at improving profitability and reducing return rates.
