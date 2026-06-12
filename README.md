@@ -131,8 +131,7 @@ The insights demonstrate my ability to perform end-to-end data analysis and tran
 
 ---
 ## Author
+
 _Joyce Obialor_
-
-👉 [GitHub Profile](https://github.com/JoyceObialor)
-
-Entry-Level Data Analyst | Data science student
+- 👉 [GitHub Profile](https://github.com/JoyceObialor)
+- Entry-Level Data Analyst | Data science student
