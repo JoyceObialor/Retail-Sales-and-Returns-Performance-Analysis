@@ -46,7 +46,7 @@ Product returns are a common challenge in retail businesses and can affect reven
 The dataset for this analysis was sourced from FP20 Analytics (https://fp20analytics.com/datasets/). It contains sales data across regions, product categories, customer segments, and time periods. Key variables include sales, profit, order date, and returns. The data was cleaned by checking for inconsistencies and missing values. The model consists of a retail sales table and a calendar table, linked through the order date to enable time-based analysis. 
 
 ---
-## 6. Tech Stack and methodology
+## 6. Tech Stack and Methodology
 **Tech Stack**
 - Microsoft Excel
 - Power Query 
