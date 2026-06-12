@@ -10,14 +10,16 @@
 8. Actionable Recommendations
 9. Conclusion
 ---
-## 1. project Overview
+## 1. Project Overview
 This project analyzes retail sales performance and product returns to understand how returns impact overall business outcomes. The analysis combines sales, profit, order, delivery, and return data to identify trends, evaluate financial performance, and highlight areas for operational improvement.
 
 The project includes two interactive dashboards:
 
 - Sales Performance Dashboard
 - Sales Returns Dashboard
+  
 These dashboards use key performance indicators (KPIs), visualizations, and trend analysis to support data-driven business decisions.
+
 ---
 ## 2. The Business Problem
 Businesses continue to generate strong sales and profit, indicating healthy business performance. However, product returns remain a recurring challenge that can reduce revenue, increase operational costs, and affect customer satisfaction.
