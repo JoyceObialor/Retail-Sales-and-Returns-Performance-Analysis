@@ -7,8 +7,8 @@
 5. Data Description
 6. Tech Stack
 7. Insights and visualization
-7. Actionable Recommendations
-19. Conclusion
+8. Actionable Recommendations
+9. Conclusion
 ---
 ## 1. project Overview
 This project analyzes retail sales performance and product returns to understand how returns impact overall business outcomes. The analysis combines sales, profit, order, delivery, and return data to identify trends, evaluate financial performance, and highlight areas for operational improvement.
@@ -114,7 +114,7 @@ Average Delivery Days
 <img width="2145" height="1292" alt="image" src="https://github.com/user-attachments/assets/12e9ff7c-8c91-4408-96e8-26159a0f82b1" />
 
 ---
-## Actionable Recommendations
+## 8. Actionable Recommendations
 - Review loss-making categories such as tables, bookcases, and Supplies to improve revenue generation
 - Increase marketing efforts toward the Consumer segment, which generates the highest sales.
 - Conduct customer feedback surveys and review order requirements to improve product fit, order accuracy, and customer satisfaction.
@@ -122,7 +122,7 @@ Average Delivery Days
 - Review packaging processes to ensure orders are delivered accurately and in good condition 
 - Leverage customer feedback to identify recurring issues affecting the region and implement targeted interventions to reduce revenue losses while maintaining sales performance. 
 
-## Conclusion
+## 9. Conclusion
 This project analyzed retail sales performance and product return patterns using key performance indicators such as sales, profit, and return rate. The analysis showed overall sales performance, but highlighted returns behaviours as a key driver of revenue loss across specific segments, regions, and product Sub-Categories.
 
 The insights demonstrate my ability to perform end-to-end data analysis and translate findings into actionable business recommendations aimed at improving profitability and reducing return rates.
