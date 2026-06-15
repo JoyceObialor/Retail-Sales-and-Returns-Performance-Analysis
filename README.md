@@ -103,7 +103,7 @@ Analysis covers:
 - Region: The West region contributed the highest sales ($725.5K), followed by the East ($678.8K), Central ($501.2K), and South ($391.7K) regions.
 - Category: Technology was the top-performing category, accounting for 51% of total sales, followed by Office Supplies (43%) and Furniture (6%).
 - Least Sub-category: Tables (-79%), Bookcases (-16%), and Supplies (-5%) were the least profitable Sub-categories, highlighting areas requiring attention.
-<img width="2130" height="1305" alt="image" src="https://github.com/user-attachments/assets/7a09de0f-ce67-4477-b846-61ac5f090b08" />
+<img width="2141" height="1312" alt="image" src="https://github.com/user-attachments/assets/f7045fcb-68be-499e-88bc-259ef5fc6d3f" />
 
 ---
 ### Sales Return Analysis 
@@ -114,7 +114,8 @@ Analysis covers:
 - Sub-category: Machines had the highest return rate (11.3%), followed by Tables (9.4%), Paper (9.0%), and Binders (9.0%).
 - Regional Return: The West region generated the highest profit ($100K+) but also recorded the highest return rate (16%), indicating a significant opportunity to reduce revenue leakage.
 - Shiping Mode: Return rates varied by shipping mode, with Same Day (11.8%) recording the highest return rate, followed by First Class (9.9%), Standard Class (7.5%), and Second Class (6.9%).
-<img width="2145" height="1292" alt="image" src="https://github.com/user-attachments/assets/12e9ff7c-8c91-4408-96e8-26159a0f82b1" />
+<img width="2145" height="1292" alt="image" src="https://github.com/user-attachments/assets/adf1279b-21ba-4b3b-824f-f8e4f2f50ab0" />
+
 
 ---
 ## 8. Actionable Recommendations
