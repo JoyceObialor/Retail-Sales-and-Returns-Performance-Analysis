@@ -89,7 +89,7 @@ Analysis covers:
 - Returned Sales
 - Sales Lost Percentage
 - Total Returned Orders
-Average Delivery Days
+-Average Delivery Days
 
 ---
 ## 7. Visualization and Insights
@@ -107,7 +107,8 @@ Average Delivery Days
 ---
 ### Sales Return Analysis 
 - 800 orders were returned, representing 8% of total orders and $180.5K account for sales lost.
-- Monthly Return Trend: Return rates fluctuated throughout the year, increasing from 7.6% in 2014 to 8.7% in 2017, the highest recorded rate.
+- February (10.9%) and August (10.5%) recorded the highest monthly return rates, while January had the lowest (6.0%).
+- Yearly Return Trend: Return rates increased throughout the year, increasing from 7.6% in 2014 to 8.7% in 2017, the highest recorded rate indicating that returns became more frequent as the business grew.
 - Customer Segement: The Corporate segment recorded the highest return rate (9%), followed by Consumer (8%) and Home Office (7%).
 - Sub-category: Machines had the highest return rate (11.3%), followed by Tables (9.4%), Paper (9.0%), and Binders (9.0%).
 - Regional Return: The West region generated the highest profit ($100K+) but also recorded the highest return rate (16%), indicating a significant opportunity to reduce revenue leakage.
