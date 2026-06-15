@@ -36,10 +36,11 @@ Product returns are a common challenge in retail businesses and can affect reven
 ## 4. Objectives
 - Sales performance overview
 - Measure the total revenue lost due to product returns
-- Identify customer segments with the highest return rates
-- Determine sub-categories with the highest returns
-- Analyze return patterns across different regions
 - Examine trends in return rates over time
+- Identify customer segments with the highest return rates
+- Determine Product sub-categories experiencing more returns
+- Analyze return patterns across different regions
+- Identify shipping mode with the highest returns
 
 ---
 ## 5. Data Description
