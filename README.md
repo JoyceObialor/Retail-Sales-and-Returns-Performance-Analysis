@@ -63,8 +63,8 @@ The dataset for this analysis was sourced from FP20 Analytics (https://fp20analy
 - Standardized data formats for consistency across fields
 ### 2. Data Modeling
 - Imported a separate Calendar Table to support time-based analysis
-- Established a one-to-many relationship between the Calendar Table and Retail Sales dataset using the Order Date field
 - Created custom columns to support deeper analytical insights
+- Established a one-to-many relationship between the Calendar Table and Retail Sales dataset using the Order Date field
 ### 3. Data Transformation
 - Transformed raw data using Power Query for structured analysis
 - Ensured consistency in date, category, and product-level fields
